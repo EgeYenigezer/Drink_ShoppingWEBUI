@@ -1,0 +1,11 @@
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\bin\Debug\net6.0\ShoppingWEBUI.Core.deps.json
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\bin\Debug\net6.0\ShoppingWEBUI.Core.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\bin\Debug\net6.0\ShoppingWEBUI.Core.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.AssemblyInfoInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.AssemblyInfo.cs
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\refint\ShoppingWEBUI.Core.dll
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ShoppingWEBUI.Core.pdb
+C:\Users\Ege Yenigezer\Desktop\Drink_ShoppingWEBUI\ShoppingWEBUI.Core\obj\Debug\net6.0\ref\ShoppingWEBUI.Core.dll

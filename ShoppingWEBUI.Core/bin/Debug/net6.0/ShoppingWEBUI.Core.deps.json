@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShoppingWEBUI.Core/1.0.0": {
+        "runtime": {
+          "ShoppingWEBUI.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingWEBUI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

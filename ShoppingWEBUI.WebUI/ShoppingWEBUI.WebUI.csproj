@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\AdminPanel\Data\**" />
+    <Compile Remove="Areas\AdminPanel\Models\**" />
+    <Compile Remove="wwwroot\NewFolder\**" />
+    <Content Remove="Areas\AdminPanel\Data\**" />
+    <Content Remove="Areas\AdminPanel\Models\**" />
+    <Content Remove="wwwroot\NewFolder\**" />
+    <EmbeddedResource Remove="Areas\AdminPanel\Data\**" />
+    <EmbeddedResource Remove="Areas\AdminPanel\Models\**" />
+    <EmbeddedResource Remove="wwwroot\NewFolder\**" />
+    <None Remove="Areas\AdminPanel\Data\**" />
+    <None Remove="Areas\AdminPanel\Models\**" />
+    <None Remove="wwwroot\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\MediaUpload\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\UserUI\fontawesome\attribution.js" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-brands-400.svg" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-brands-400.woff2" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-regular-400.svg" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-regular-400.woff2" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-solid-900.svg" />
+    <None Include="wwwroot\UserUI\fontawesome\webfonts\fa-solid-900.woff2" />
+    <None Include="wwwroot\UserUI\js\plugins.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShoppingWEBUI.Core\ShoppingWEBUI.Core.csproj" />
+    <ProjectReference Include="..\ShoppingWEBUI.Helper\ShoppingWEBUI.Helper.csproj" />
+  </ItemGroup>
+
+</Project>
